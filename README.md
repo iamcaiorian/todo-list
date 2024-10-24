@@ -15,10 +15,10 @@ Este projeto é uma aplicação completa de **Lista de Tarefas (To-Do List)**, c
 ## Demonstração
 
 ### Tela Principal
-![Tela Principal](./path-to-your-image-1.png)
+![Tela Principal](./imagens/home.png)
 
 ### Visualização de Lista de Tarefas
-![Lista de Tarefas](./path-to-your-image-2.png)
+![Lista de Tarefas](./imagens/todo-list.png)
 
 ## Tecnologias Utilizadas
 
